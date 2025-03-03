@@ -138,7 +138,7 @@ flowchart TB
 ```
 
 ### Sequence Diagram
-```
+```mermaid
 sequenceDiagram
     participant Client
     participant API as FastAPI (API Layer)
